@@ -3,6 +3,9 @@
 A modern, interactive mission control dashboard for the **Sirius International Space Station**.  
 Built with React, this application enables real-time management of crew, experiments, resources, communications, and maintenance for a research space station orbiting Earth.
 
+<img width="1792" alt="image" src="https://github.com/user-attachments/assets/0b3e1e3b-686e-49a9-9de2-65bde577dcd8" />
+
+
 ## 🚀 Features
 
 - **Crew Management:**  
